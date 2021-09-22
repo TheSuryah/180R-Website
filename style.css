@@ -177,6 +177,7 @@ margin-right: 20px;
 }
 .css-1gkiexl:hover{
 color: var(--theme-ui-colors-primary);
+    text-decoration: none;
 }
 .css-1gkiexl {
 box-sizing: border-box;
