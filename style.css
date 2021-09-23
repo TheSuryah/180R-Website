@@ -1320,7 +1320,7 @@ min-width: 0px;
 z-index: 1;
 position: absolute;
 inset: 0px auto auto 0px;
-transform: translate3d(calc(100% + 376px), 85px, 0px);
+transform: translate3d(calc(100% + 376px), 75px, 0px);
 }
 .css-551bsn {
 box-sizing: border-box;
