@@ -14,6 +14,7 @@
   box-shadow: 0 0 8px #818181 ;
   transition: 0.3s;
 }
+
 #cards > div:hover{
   box-shadow: 0 0px 35px #000000;
   
