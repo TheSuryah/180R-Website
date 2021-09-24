@@ -50,7 +50,7 @@
     <div class="css-g9s7bz"><a href="sponsors.html" class="css-1q0a0qf"><h4 class="css-p8if6b">Sponsors</h4></a></div></span>
     </div></div></span>
     <div class="css-b2conh"><a href="http://180registration.epizy.com/login.php" target="_blank" rel="noreferrer noopener" class="css-4b57uq">Login</a><div class="css-ykwscm"><p class="css-1nlg4i0"></p></div></div></div>
-  
+  <span id="nun">
         
         <div class="container my-4">
         <div class="row featurette d-flex justify-content-center align-items-center">
@@ -93,7 +93,7 @@
         </div>
     </div>
 
-
+</span>
 
 
 
@@ -142,10 +142,10 @@
               aks.addEventListener("click",function main(){
            
               if(t.style.display=="none") { t.style.display= "contents";
-              document.body.style.overflowY = "hidden";
+              document.getElementById("nun").style.display="none";
               }
               else{t.style.display= "none";
-              document.body.style.overflowY = "auto";
+              document.getElementById("nun").style.display="contents";
                 }
            });
            
