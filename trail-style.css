@@ -188,18 +188,17 @@
   margin: 1vw;
   box-shadow: 0 0 8px #818181 ;
   border-radius: 0 0 10px 10px;
-  transition: 0.25s;
 }
 
 #videos > div:hover{
   box-shadow: 0 0px 10px #000000;
+  transition: 0.25s;
 }
 
 .video-title:hover{
   cursor: pointer;
   color:#8a9a92;
 }
-  
   
 .video-title {
   font-size: 2.5vh;
@@ -223,7 +222,7 @@
     width: 85vw;
     text-align: center;
     font-size: 2vw;
-    margin: 2vw;
+    margin: 5vw;
     box-shadow: 0 0 4px #000000;
   }
   
@@ -244,10 +243,9 @@
   }
   
   #videos > div {
-    
     text-align: center;
     font-size: 2vw;
-    margin: 4vw;
+    margin: 5vw;
     box-shadow: 0 0 4px #000000;
   }
   
@@ -263,66 +261,9 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 }
-
-
 
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
-
-
-
-
-
-@media screen and (max-width: 600px) {
-  #videos {
-    flex-flow: row wrap;
-  }
-    
-  #videos > div {
-    width: 85vw;
-    text-align: center;
-    font-size: 2vw;
-    margin: 2vw;
-    box-shadow: 0 0 4px #000000;
-  }
-  
-
-  .video-title {
-    font-size: 3vw;
-    font-weight: bold;
-  }
-   
-  .video-details {
-    font-size: 2.5vw;
-  }
-}
-  
-@media screen and (max-width: 365px) {
-  #videos {
-    flex-flow: column;
-  }
-  
-  #videos > div {
-   
-    text-align: center;
-    font-size: 2vw;
-    margin: 4vw;
-    box-shadow: 0 0 4px #000000;
-    
-  }
-
-
-  .video-title {
-    font-size: 3vw;
-    font-weight: bold;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-  }
-    
-  .video-details {
-    font-size: 2.5vw;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-  }
 }
