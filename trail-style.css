@@ -188,6 +188,7 @@
   margin: 1vw;
   box-shadow: 0 0 8px #818181 ;
   border-radius: 0 0 10px 10px;
+  transition: 0.25s;
 }
 
 #videos > div:hover{
