@@ -260,3 +260,185 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+/* judging Panel */
+
+#heading-color{
+  color: black;
+    font-weight: lighter;
+}
+
+
+
+#cards1 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 1.5vw;
+  margin-left: 1.5vw;
+  transition: 1.25s
+}
+  
+#cards1 > div {
+  background-color: #181a17;
+  width: 22vw;
+  margin: 1vw;
+  box-shadow: 0 0 8px #818181;
+  border-radius:  0 0 6px 6px;
+}
+#cards1 > div:hover{
+  box-shadow: 0 0px 20px #000000;
+  transition : 0.3s;
+}
+
+.card-title:hover{
+  cursor: pointer;
+  color:#fdfdfd;
+}
+  
+.thumbnail1 {
+  width: 22vw;
+  height: 22vw;
+}
+  
+.card-title {
+  font-size: 3vh;
+  padding: 1vh;
+  font-weight: bold;
+  cursor: default;
+  color: #b8cad8;
+}
+  
+.card-details {
+  font-size: 2.5vh;
+  padding: 1vh;
+}
+
+@media screen and (max-width: 600px) {
+  #cards1 {
+    flex-flow: row wrap;
+  }
+    
+  #cards1 > div {
+    width: 45vw;
+    text-align: center;
+    font-size: 2vw;
+    margin: 2vw;
+    box-shadow: 0 0 4px #000000;
+  }
+  
+  .thumbnail1 {
+    width: 45vw;
+    height: auto;
+  }
+  .card-title {
+    font-size: 3vw;
+    font-weight: bold;
+  }
+   
+  .card-details {
+    font-size: 2.5vw;
+  }
+}
+  
+@media screen and (max-width: 365px) {
+  #cards1 {
+    flex-flow: column;
+  }
+  
+  #cards1 > div {
+    width: 90vw;
+    text-align: center;
+    font-size: 2vw;
+    margin: 4vw;
+    box-shadow: 0 0 4px #000000;
+  }
+  
+  .thumbnail1 {
+    width: 90vw;
+    height: auto;
+  }
+
+  .card-title {
+    font-size: 3vw;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+    
+  .card-details {
+    font-size: 2.5vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+}
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+
+@media screen and (max-width: 600px) {
+  #cards1 {
+    flex-flow: row wrap;
+  }
+    
+  #cards1 > div {
+    width: 45vw;
+    text-align: center;
+    font-size: 2vw;
+    margin: 2vw;
+    box-shadow: 0 0 4px #000000;
+  }
+  
+  .thumbnail1 {
+    width: 45vw;
+    height: auto;
+  }
+  .card-title {
+    font-size: 3vw;
+    font-weight: bold;
+  }
+   
+  .card-details {
+    font-size: 2.5vw;
+  }
+}
+  
+@media screen and (max-width: 365px) {
+  #cards1 {
+    flex-flow: column;
+  }
+  
+  #cards1 > div {
+    width: 90vw;
+    text-align: center;
+    font-size: 2vw;
+    margin: 4vw;
+    box-shadow: 0 0 4px #000000;
+    
+  }
+  
+    
+  
+  .thumbnail1 {
+    width: 90vw;
+    height: auto;
+  }
+
+  .card-title {
+    font-size: 3vw;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+    
+  .card-details {
+    font-size: 2.5vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+}
