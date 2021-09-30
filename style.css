@@ -1838,10 +1838,7 @@ element.style {
     font-weight: 400;
 }
 
-@media (min-width: 62em){
-.featurette-heading {
-    margin-top: 7rem;
-}}
+
 @media (min-width: 40em){
 .featurette-heading {
     font-size: 50px;
