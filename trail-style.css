@@ -291,9 +291,9 @@
   transition : 0.3s;
 }
 
-.card-title:hover{
+.card1-title:hover{
   cursor: pointer;
-  color:#007bff;
+  color:#FFFFFF;
 }
   
 .thumbnail1 {
@@ -301,7 +301,7 @@
   height: 22vw;
 }
   
-.card-title {
+.card1-title {
   font-size: 3vh;
   padding: 1vh;
   font-weight: bold;
