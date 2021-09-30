@@ -30,7 +30,7 @@
   
 .thumbnail {
   width: 22vw;
-  height: auto;
+  height: 22vw;
 }
   
 .card-title {
@@ -60,7 +60,7 @@
   
   .thumbnail {
     width: 45vw;
-    height: auto;
+    height: 45vw;
   }
   .card-title {
     font-size: 3vw;
@@ -87,7 +87,7 @@
   
   .thumbnail {
     width: 90vw;
-    height: auto;
+    height: 90vw;
   }
 
   .card-title {
@@ -129,7 +129,7 @@
   
   .thumbnail {
     width: 45vw;
-    height: auto;
+    height: 45vw;
   }
   .card-title {
     font-size: 3vw;
@@ -159,7 +159,7 @@
   
   .thumbnail {
     width: 90vw;
-    height: auto;
+    height: 90vw;
   }
 
   .card-title {
@@ -329,7 +329,7 @@
   
   .thumbnail1 {
     width: 45vw;
-    height: auto;
+    height: 45vw;
   }
   .card1-title {
     font-size: 3vw;
@@ -356,7 +356,7 @@
   
   .thumbnail1 {
     width: 90vw;
-    height: auto;
+    height: 90vw;
   }
 
   .card1-title {
@@ -428,7 +428,7 @@
   
   .thumbnail1 {
     width: 90vw;
-    height: auto;
+    height: 90vw;
   }
 
   .card1-title {
