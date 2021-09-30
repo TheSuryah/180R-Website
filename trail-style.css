@@ -232,6 +232,10 @@
     border-bottom: 1px solid black;
   }
   
+  #videos > div:hover {
+    box-shadow: none;
+  }
+  
   #videos > div > iframe {
     width: 100vw;
     height: 56.25vw;
