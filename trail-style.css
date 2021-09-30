@@ -265,7 +265,7 @@
 
 #heading-color{
   color: black;
-    font-weight: lighter;
+   font-weight: lighter;
 }
 
 
@@ -306,7 +306,7 @@
   padding: 1vh;
   font-weight: bold;
   cursor: default;
-  color: #b8cad8;
+  
 }
   
 .card-details {
