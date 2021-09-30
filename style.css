@@ -1488,7 +1488,7 @@ Hero slider style
 .hero-slider {position: relative;}
 .single-hs-item {height:86vh;background-size: cover;background-position: center center;position: relative;}
 .single-hs-item:before {content: '';position: absolute;width: 100%;height: 100%;left: 0;top: 0;background: rgba(0, 0, 0, 0.59);
-    opacity: .4;}
+    opacity: .5;}
 .item-bg1 {
 background-image: url("https://civil.iitm.ac.in//admin/download/iit2.png");
 }
