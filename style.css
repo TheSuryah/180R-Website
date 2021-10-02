@@ -1322,7 +1322,7 @@ margin: 0px;
 min-width: 0px;
 z-index: 1;
 position: absolute;
-inset: 0px auto auto 0px;
+inset: -10px auto auto 0px;
 transform: translate3d(calc(100% + 396px), 75px, 0px);
 }
 .css-551bsn {
