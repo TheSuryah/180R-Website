@@ -33,7 +33,6 @@ padding-right: 22px;
 .css-xke5cp {
 display: block;
 }}
-
 .css-vynlyb {
 box-sizing: border-box;
 margin: 0px;
@@ -63,8 +62,8 @@ width: 100%;
 -webkit-box-pack: justify;
 -webkit-justify-content: space-between;
 justify-content: space-between;
-padding-top: 20px;
-padding-bottom: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
 }
 .css-4cffwv {
 box-sizing: border-box;
@@ -470,7 +469,7 @@ width: 100%;
 -webkit-box-pack: justify;
 -webkit-justify-content: space-between;
 justify-content: space-between;
-padding: 16px;
+padding: 3px 16px;
 height: 66px;
 box-shadow: rgb(0 0 0 / 10%) 0px 8px 14px 0px;
 }
@@ -1100,6 +1099,9 @@ display: -webkit-box;
 display: -webkit-flex;
 display: -ms-flexbox;
 display: flex;
+justify-content:center;
+align-items:center;
+
 }
 .css-1j5u7x4 {
 background: none;
