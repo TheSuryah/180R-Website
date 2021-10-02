@@ -62,8 +62,8 @@ width: 100%;
 -webkit-box-pack: justify;
 -webkit-justify-content: space-between;
 justify-content: space-between;
-padding-top: 5px;
-padding-bottom: 5px;
+padding-top: 10px;
+padding-bottom: 10px;
 }
 .css-4cffwv {
 box-sizing: border-box;
