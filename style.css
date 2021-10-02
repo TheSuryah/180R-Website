@@ -1100,6 +1100,7 @@ display: -webkit-flex;
 display: -ms-flexbox;
 display: flex;
 justify-content:center;
+align-items:center;
 
 }
 .css-1j5u7x4 {
