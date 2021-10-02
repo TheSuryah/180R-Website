@@ -235,7 +235,7 @@
 }
   
 .card1-details {
-  font-size: 18px;
+  font-size: 2.5vh;
   padding: 4px 16px;
 }
 
@@ -262,6 +262,7 @@
   }
     
   .card1-details {
+    font-size: 18px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 }
@@ -285,6 +286,7 @@
   }
 
   .card1-title {
+    font-size: 18px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
     
