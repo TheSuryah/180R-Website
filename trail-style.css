@@ -204,7 +204,7 @@
 }
   
 #cards1 > div {
-  background-color: #181a17;
+  background-color: #ffffff;
   width: 22vw;
   margin: 1vw;
   box-shadow: 0 0 8px #818181;
@@ -219,7 +219,7 @@
 
 .card1-title:hover{
   cursor: pointer;
-  color:#FFFFFF;
+  color:#007bff;
 }
   
 .thumbnail1 {
@@ -231,7 +231,6 @@
   font-size: 18px;
   padding: 4px 16px;
   font-weight: bold;
-  cursor: default;
 }
   
 .card-details {
