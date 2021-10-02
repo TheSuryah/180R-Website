@@ -229,13 +229,13 @@
 }
   
 .card1-title {
-  font-size: 3vh;
+  font-size: 18px;
   padding: 4px 16px;
   font-weight: bold;
 }
   
-.card-details {
-  font-size: 2.5vh;
+.card1-details {
+  font-size: 18px;
   padding: 4px 16px;
 }
 
@@ -256,13 +256,13 @@
     width: 45vw;
     height: 45vw;
   }
+
   .card1-title {
-    font-size: 3vw;
-    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
-   
-  .card-details {
-    font-size: 2.5vw;
+    
+  .card1-details {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 }
   
@@ -285,13 +285,10 @@
   }
 
   .card1-title {
-    font-size: 3vw;
-    font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
     
-  .card-details {
-    font-size: 2.5vw;
+  .card1-details {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 }
