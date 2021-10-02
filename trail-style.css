@@ -35,16 +35,16 @@
 }
   
 .card-title {
-  font-size: 18px;
-  padding: 4px 16px;
+  font-size: 3vh;
+  padding: 1vh 2.5vh 0.5vh;
   font-weight: bold;
   cursor: default;
 }
   
 
 .card-details {
-  font-size: 16px;
-  padding: 4px 16px;
+  font-size: 2.5vh;
+  padding: 0.5vh 2.5vh 1vh;
 }
 
 @media screen and (max-width: 600px) {
@@ -66,10 +66,14 @@
   }
 
   .card-title {
+    font-size: 3vw;
+    padding: 1vw 1vw 0.5vw;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
     
   .card-details {
+    font-size: 2.5vw;
+    padding: 0.5vw 1vw 1vw;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 }
@@ -93,10 +97,14 @@
   }
 
   .card-title {
+    font-size: 3vw;
+    padding: 0.5vw;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
     
   .card-details {
+    font-size: 3vw;
+    padding: 0.5vw;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 }
