@@ -238,6 +238,10 @@
   font-weight: bold;
 }
 
+.card1-title:hover {
+  color: #007bff;
+}
+
 .card1-details {
   font-size: 2.5vh;
   padding: 0.5vh 2.5vh 1vh;
